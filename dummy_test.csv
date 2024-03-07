@@ -1,0 +1,13 @@
+timestamp,age,gender,country,state,self_employed,family_history,work_interfere,no_employees,remote_work,tech_company,benefits,care_options,wellness_program,seek_help,anonymity,leave,mental_health_consequence,phys_health_consequence,coworkers,supervisor,mental_health_interview,phys_health_interview,mental_vs_physical,obs_consequence,comments
+2014-08-27T12:31:41,21,Male,United Kingdom,NA,Yes,FALSE,Often,01-May,TRUE,FALSE,No,Yes,No,No,Yes,Very difficult,Yes,No,Some of them,Yes,No,Maybe,No,FALSE,NA
+2014-08-27T12:31:41,27,Male,Canada,NA,No,FALSE,Rarely,Jun-25,FALSE,FALSE,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,No,Some of them,Yes,No,No,Don't know,FALSE,NA
+2014-08-27T12:31:43,18,Male,United States,CT,No,FALSE,Rarely,01-May,TRUE,TRUE,No,No,No,No,Yes,Very easy,No,No,Some of them,No,No,No,Don't know,FALSE,NA
+2014-08-27T12:32:24,35,Male,United States,CO,No,FALSE,NA,26-100,TRUE,FALSE,Don't know,Not sure,No,Don't know,Don't know,Very difficult,No,No,Some of them,Yes,Maybe,Maybe,Don't know,TRUE,NA
+2014-08-27T12:32:59,29,Female,United States,GA,Yes,FALSE,Never,More than 1000,FALSE,TRUE,Yes,Yes,No,No,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,FALSE,NA
+2014-08-27T12:33:23,30,Female,United States,MN,No,TRUE,Sometimes,Jun-25,TRUE,FALSE,Don't know,No,Don't know,Don't know,Yes,Very easy,No,Yes,Yes,Yes,No,Maybe,Yes,FALSE,NA
+2014-08-27T12:33:36,36,Male,United States,WA,No,FALSE,Often,Jun-25,TRUE,TRUE,Yes,No,Don't know,No,Yes,Very easy,Maybe,No,Yes,No,No,No,Yes,FALSE,NA
+2014-08-27T12:33:56,27,Male,Canada,NA,No,FALSE,NA,100-500,FALSE,FALSE,Yes,Not sure,Yes,Yes,Don't know,Very difficult,Maybe,Yes,Some of them,Yes,No,Maybe,No,TRUE,NA
+2014-08-27T12:34:11,27,Male,United States,WA,No,TRUE,Never,500-1000,FALSE,TRUE,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,Some of them,No,Maybe,Yes,Don't know,TRUE,NA
+2014-08-27T12:34:35,32,M,United States,OR,No,FALSE,Rarely,100-500,FALSE,TRUE,Yes,Yes,No,Yes,Yes,Don't know,Yes,No,No,Yes,No,No,Don't know,FALSE,NA
+2014-08-27T11:29:31,37,Female,United States,IL,NA,FALSE,Often,Jun-25,FALSE,TRUE,Yes,Not sure,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,FALSE,NA
+2014-08-27T11:29:37,44,M,United States,IN,NA,FALSE,Rarely,More than 1000,FALSE,FALSE,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,FALSE,NA

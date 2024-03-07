@@ -1,0 +1,11 @@
+timestamp,age,gender,country,state,self_employed,family_history,work_interfere,no_employees,remote_work,tech_company,benefits,care_options,wellness_program,seek_help,anonymity,leave,mental_health_consequence,phys_health_consequence,coworkers,supervisor,mental_health_interview,phys_health_interview,mental_vs_physical,obs_consequence,comments
+2024-03-06 23:22:17,31,Male,India,MA,Yes,TRUE,Sometimes,26-100,TRUE,TRUE,Yes,Not sure,No,Yes,Don't know,Don't know,Yes,Yes,Yes,Some of them,Maybe,Maybe,Yes,TRUE,zQhqQbSYPg
+2024-03-06 23:22:19,54,Male,Germany,TX,No,TRUE,Rarely,26-100,FALSE,FALSE,No,Not sure,No,Yes,Yes,Don't know,No,Maybe,Some of them,Yes,No,Yes,Yes,FALSE,qDUXKrWIaZ
+2024-03-06 23:22:22,30,Male,Germany,TX,No,FALSE,Never,More than 1000,FALSE,FALSE,Yes,Not sure,No,No,Yes,Somewhat difficult,No,Yes,Yes,Yes,Maybe,Yes,Yes,FALSE,EKaqrUXiZf
+2024-03-06 23:22:23,15,Female,United Kingdom,IL,Yes,TRUE,Often,500-1000,TRUE,FALSE,Yes,No,No,Don't know,Don't know,Don't know,Maybe,Maybe,Yes,Some of them,Yes,Yes,Don't know,FALSE,vNCMeHyUNm
+2024-03-06 23:22:28,65,Male,Russia,WA,Yes,FALSE,Sometimes,More than 1000,TRUE,FALSE,Don't know,Yes,Yes,Yes,Don't know,Don't know,Yes,No,Yes,Yes,No,No,No,TRUE,XSVPZBPsNB
+2024-03-06 23:22:32,65,Male,United States,OR,Yes,TRUE,Rarely,More than 1000,FALSE,TRUE,No,Not sure,Yes,Don't know,Yes,Somewhat difficult,Yes,No,Some of them,Some of them,Maybe,Yes,No,TRUE,qhRQtUsydZ
+2024-03-06 23:22:34,32,Female,Netherlands,PA,Yes,TRUE,NA,26-100,FALSE,FALSE,Yes,Not sure,Yes,Don't know,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Yes,Maybe,Maybe,Yes,TRUE,AFRplEFwed
+2024-03-06 23:22:39,39,Male,Australia,MA,No,FALSE,NA,26-100,FALSE,FALSE,Don't know,No,Yes,No,No,Very easy,Yes,No,Yes,Some of them,Yes,Maybe,Yes,TRUE,zJBVUkEZGl
+2024-03-06 23:22:42,49,Male,United Kingdom,NY,No,TRUE,Rarely,More than 1000,FALSE,TRUE,No,Yes,Don't know,No,No,Don't know,No,Yes,Yes,Some of them,Yes,Yes,No,FALSE,pHUAgQnvYx
+2024-03-06 23:22:44,64,Female,India,IN,No,TRUE,Often,26-100,FALSE,FALSE,Don't know,No,Yes,Yes,No,Very difficult,Maybe,No,Yes,Some of them,No,No,Don't know,TRUE,rGzvmINfSJ
