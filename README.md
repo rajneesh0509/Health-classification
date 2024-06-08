@@ -1,1 +1,4 @@
 Mental health classification with Machine learning. 
+Life cycle of MLOps framework includes Data engineering pipeline, Model development pipeline, Model evaluation, API & App development, Model deployment and Monitoring.
+The process begins with a Data engineering pipeline encompassing data ingestion, data exploration, data wrangling, feature extraction/removal, and data labeling. The model development pipeline involves partitioning data into training and test sets, implementing Machine Learning algorithms, tuning hyperparameters, and validating the model. For model evaluation, we assess the classifier’s performance using metrics such as accuracy, precision, recall, F-1 score.
+The model will be deployed and monitored utilizing web frameworks like FastAPI and Streamlit, along with version control through GitHub and hosting on Heroku.
